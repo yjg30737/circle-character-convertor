@@ -1,0 +1,1 @@
+from circle_character_convertor.main import *
